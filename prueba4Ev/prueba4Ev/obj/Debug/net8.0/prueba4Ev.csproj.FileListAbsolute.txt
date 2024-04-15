@@ -1,0 +1,14 @@
+C:\Users\Julio\source\repos\prueba4Ev\prueba4Ev\bin\Debug\net8.0\prueba4Ev.exe
+C:\Users\Julio\source\repos\prueba4Ev\prueba4Ev\bin\Debug\net8.0\prueba4Ev.deps.json
+C:\Users\Julio\source\repos\prueba4Ev\prueba4Ev\bin\Debug\net8.0\prueba4Ev.runtimeconfig.json
+C:\Users\Julio\source\repos\prueba4Ev\prueba4Ev\bin\Debug\net8.0\prueba4Ev.dll
+C:\Users\Julio\source\repos\prueba4Ev\prueba4Ev\bin\Debug\net8.0\prueba4Ev.pdb
+C:\Users\Julio\source\repos\prueba4Ev\prueba4Ev\obj\Debug\net8.0\prueba4Ev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio\source\repos\prueba4Ev\prueba4Ev\obj\Debug\net8.0\prueba4Ev.AssemblyInfoInputs.cache
+C:\Users\Julio\source\repos\prueba4Ev\prueba4Ev\obj\Debug\net8.0\prueba4Ev.AssemblyInfo.cs
+C:\Users\Julio\source\repos\prueba4Ev\prueba4Ev\obj\Debug\net8.0\prueba4Ev.csproj.CoreCompileInputs.cache
+C:\Users\Julio\source\repos\prueba4Ev\prueba4Ev\obj\Debug\net8.0\prueba4Ev.dll
+C:\Users\Julio\source\repos\prueba4Ev\prueba4Ev\obj\Debug\net8.0\refint\prueba4Ev.dll
+C:\Users\Julio\source\repos\prueba4Ev\prueba4Ev\obj\Debug\net8.0\prueba4Ev.pdb
+C:\Users\Julio\source\repos\prueba4Ev\prueba4Ev\obj\Debug\net8.0\prueba4Ev.genruntimeconfig.cache
+C:\Users\Julio\source\repos\prueba4Ev\prueba4Ev\obj\Debug\net8.0\ref\prueba4Ev.dll
